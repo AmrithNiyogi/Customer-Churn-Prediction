@@ -24,8 +24,8 @@ Make sure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
-   cd customer-churn-prediction
+   git clone https://github.com/AmrithNiyogi/Customer-Churn-Prediction.git
+   cd Customer-Churn-Prediction
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
